@@ -1,6 +1,6 @@
 # MY CHATBOT
 
-![](images/header-chat-box.png)
+![picture](images/header-chat-box.png)
 
 ## Table of Contents
 1. [About](#About-the-project)
