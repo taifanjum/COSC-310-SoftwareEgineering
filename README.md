@@ -30,6 +30,6 @@ Numpy >=1.2
 
 # Adding personalized features
 
-# Source code
+# Source codee
 
 [Find the source code here](src/code.py)
